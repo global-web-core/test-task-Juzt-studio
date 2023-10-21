@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "1"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "2"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "image": "image_url_1.jpg",
+      "brand": "Tesla",
+      "model": "Model S",
+      "color": "Red",
+      "price": 79999,
+      "year": 2022,
+      "engine_type": "Электрический",
+      "range": 500
+    },
+    {
+      "id": 2,
+      "image": "image_url_2.jpg",
+      "brand": "BMW",
+      "model": "M5",
+      "color": "Black",
+      "price": 110000,
+      "year": 2021,
+      "engine_type": "Бензиновый",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 3,
+      "image": "image_url_3.jpg",
+      "brand": "Audi",
+      "model": "A8",
+      "color": "White",
+      "price": 120000,
+      "year": 2021,
+      "engine_type": "Дизельный",
+      "transmission": "Ручная"
+    },
+    {
+      "id": 4,
+      "image": "image_url_4.jpg",
+      "brand": "Nissan",
+      "model": "Leaf",
+      "color": "Blue",
+      "price": 40000,
+      "year": 2020,
+      "engine_type": "Электрический",
+      "range": 270
+    },
+    {
+      "id": 5,
+      "image": "image_url_5.jpg",
+      "brand": "Toyota",
+      "model": "Camry",
+      "color": "Silver",
+      "price": 30000,
+      "year": 2019,
+      "engine_type": "Бензиновый",
+      "transmission": "Роботизированная"
+    },
+    {
+      "id": 6,
+      "image": "image_url_6.jpg",
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "color": "Grey",
+      "price": 130000,
+      "year": 2021,
+      "engine_type": "Бензиновый",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 7,
+      "image": "image_url_7.jpg",
+      "brand": "Ford",
+      "model": "Mustang",
+      "color": "Yellow",
+      "price": 55000,
+      "year": 2020,
+      "engine_type": "Бензиновый",
+      "transmission": "Ручная"
+    },
+    {
+      "id": 8,
+      "image": "image_url_8.webp",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "color": "Green",
+      "price": 37000,
+      "year": 2020,
+      "engine_type": "Электрический",
+      "range": 300
+    },
+    {
+      "id": 9,
+      "image": "image_url_9.webp",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "color": "White",
+      "price": 25000,
+      "year": 2019,
+      "engine_type": "Дизельный",
+      "transmission": "Роботизированная"
+    },
+    {
+      "id": 10,
+      "image": "image_url_10.webp",
+      "brand": "Honda",
+      "model": "Civic",
+      "color": "Black",
+      "price": 22000,
+      "year": 2018,
+      "engine_type": "Бензиновый",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 11,
+      "image": "image_url_11.avif",
+      "brand": "Chevrolet",
+      "model": "Bolt",
+      "color": "Orange",
+      "price": 36000,
+      "year": 2021,
+      "engine_type": "Электрический",
+      "range": 320
+    },
+    {
+      "id": 12,
+      "image": "image_url_12.avif",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "color": "Green",
+      "price": 28000,
+      "year": 2019,
+      "engine_type": "Бензиновый",
+      "transmission": "Ручная"
+    },
+    {
+      "id": 13,
+      "image": "image_url_13.jpeg",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "color": "Red",
+      "price": 26000,
+      "year": 2020,
+      "engine_type": "Дизельный",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 14,
+      "image": "image_url_14.avif",
+      "brand": "Kia",
+      "model": "Niro",
+      "color": "Blue",
+      "price": 24000,
+      "year": 2019,
+      "engine_type": "Электрический",
+      "range": 280
+    },
+    {
+      "id": 15,
+      "image": "image_url_15.jpeg",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "color": "Grey",
+      "price": 23000,
+      "year": 2018,
+      "engine_type": "Бензиновый",
+      "transmission": "Роботизированная"
+    },
+    {
+      "id": 16,
+      "image": "image_url_16.jpeg",
+      "brand": "Fiat",
+      "model": "500",
+      "color": "White",
+      "price": 17000,
+      "year": 2017,
+      "engine_type": "Бензиновый",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 17,
+      "image": "image_url_17.jpeg",
+      "brand": "Renault",
+      "model": "Zoe",
+      "color": "Black",
+      "price": 19000,
+      "year": 2021,
+      "engine_type": "Электрический",
+      "range": 260
+    },
+    {
+      "id": 18,
+      "image": "image_url_18.jpeg",
+      "brand": "Peugeot",
+      "model": "208",
+      "color": "Yellow",
+      "price": 21000,
+      "year": 2020,
+      "engine_type": "Дизельный",
+      "transmission": "Ручная"
+    },
+    {
+      "id": 19,
+      "image": "image_url_19.jpeg",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "color": "Green",
+      "price": 20000,
+      "year": 2019,
+      "engine_type": "Бензиновый",
+      "transmission": "Автоматическая"
+    },
+    {
+      "id": 20,
+      "image": "image_url_20.jpeg",
+      "brand": "Volvo",
+      "model": "XC40",
+      "color": "Blue",
+      "price": 33000,
+      "year": 2021,
+      "engine_type": "Электрический",
+      "range": 290
+    }
+  ]
+}
